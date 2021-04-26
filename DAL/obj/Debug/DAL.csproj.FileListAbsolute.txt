@@ -1,0 +1,115 @@
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\bin\Debug\DAL.dll.config
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\bin\Debug\DAL.dll
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\bin\Debug\DAL.pdb
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\bin\Debug\EntityFramework.dll
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\bin\Debug\EntityFramework.xml
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\obj\Debug\DAL.dll
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\obj\Debug\DAL.pdb
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\obj\Debug\DAL.Migrations.init.resources
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\obj\Debug\DAL.Migrations.createCategoryTable.resources
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\obj\Debug\DAL.Migrations.createProductTable.resources
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\obj\Debug\DAL.Migrations.createCartTable.resources
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\obj\Debug\DAL.Migrations.createWishlistTable.resources
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\obj\Debug\DAL.Migrations.createPaymentTable.resources
+D:\ITI\ASP Net MVC 5\E-Commerce website\DAL\obj\Debug\DAL.Migrations.CreateTableReviews.resources
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\DAL\bin\Debug\DAL.dll.config
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\DAL\bin\Debug\DAL.dll
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\DAL\bin\Debug\DAL.pdb
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\DAL\obj\Debug\DAL.dll
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\DAL\obj\Debug\DAL.pdb
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\DAL\obj\Debug\DAL.Migrations.init.resources
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\DAL\obj\Debug\DAL.Migrations.UpdateRelationShip.resources
+D:\ITI Courses\ASP .NET MVC\Github Project\MVC-Project-main\DAL\bin\Debug\DAL.dll.config
+D:\ITI Courses\ASP .NET MVC\Github Project\MVC-Project-main\DAL\bin\Debug\DAL.dll
+D:\ITI Courses\ASP .NET MVC\Github Project\MVC-Project-main\DAL\bin\Debug\DAL.pdb
+D:\ITI Courses\ASP .NET MVC\Github Project\MVC-Project-main\DAL\bin\Debug\EntityFramework.dll
+D:\ITI Courses\ASP .NET MVC\Github Project\MVC-Project-main\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI Courses\ASP .NET MVC\Github Project\MVC-Project-main\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ITI Courses\ASP .NET MVC\Github Project\MVC-Project-main\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ITI Courses\ASP .NET MVC\Github Project\MVC-Project-main\DAL\bin\Debug\EntityFramework.xml
+D:\ITI Courses\ASP .NET MVC\Github Project\MVC-Project-main\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI Courses\ASP .NET MVC\Github Project\MVC-Project-main\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ITI Courses\ASP .NET MVC\Github Project\MVC-Project-main\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ITI Courses\ASP .NET MVC\Github Project\MVC-Project-main\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\ITI Courses\ASP .NET MVC\Github Project\MVC-Project-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ITI Courses\ASP .NET MVC\Github Project\MVC-Project-main\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ITI Courses\ASP .NET MVC\Github Project\MVC-Project-main\DAL\obj\Debug\DAL.dll
+D:\ITI Courses\ASP .NET MVC\Github Project\MVC-Project-main\DAL\obj\Debug\DAL.pdb
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\bin\Debug\DAL.dll.config
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\bin\Debug\DAL.dll
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\bin\Debug\DAL.pdb
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\bin\Debug\EntityFramework.dll
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\bin\Debug\EntityFramework.xml
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\obj\Debug\DAL.dll
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\obj\Debug\DAL.pdb
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\obj\Debug\DAL.Migrations.init.resources
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\obj\Debug\DAL.Migrations.usersPaymentConfig.resources
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\obj\Debug\DAL.Migrations.userIsDeleted.resources
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\obj\Debug\DAL.Migrations.deleteDescorder.resources
+D:\ITI\ASP Net MVC 5\MVC-Project-main\DAL\obj\Debug\DAL.Migrations.nothing.resources
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\DAL\bin\Debug\DAL.dll.config
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\DAL\bin\Debug\DAL.dll
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\DAL\bin\Debug\DAL.pdb
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\DAL\obj\Debug\DAL.dll
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\DAL\obj\Debug\DAL.pdb
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\DAL\bin\Debug\DAL.dll.config
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\DAL\bin\Debug\DAL.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\DAL\bin\Debug\DAL.pdb
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\DAL\bin\Debug\EntityFramework.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\DAL\bin\Debug\EntityFramework.xml
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\DAL\obj\Debug\DAL.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\DAL\obj\Debug\DAL.pdb
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\DAL\obj\Debug\DAL.Migrations.init.resources
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

@@ -1,0 +1,126 @@
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\bin\Debug\BL.dll.config
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\bin\Debug\BL.dll
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\bin\Debug\BL.pdb
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\bin\Debug\AutoMapper.dll
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\bin\Debug\DAL.dll
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\bin\Debug\EntityFramework.dll
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\bin\Debug\DAL.pdb
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\bin\Debug\DAL.dll.config
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\bin\Debug\AutoMapper.xml
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\bin\Debug\EntityFramework.xml
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\obj\Debug\BL.csproj.CopyComplete
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\obj\Debug\BL.dll
+D:\ITI\ASP Net MVC 5\E-Commerce website\BL\obj\Debug\BL.pdb
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\bin\Debug\BL.dll.config
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\bin\Debug\BL.dll
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\bin\Debug\BL.pdb
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\bin\Debug\AutoMapper.dll
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\bin\Debug\DAL.dll
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\bin\Debug\EntityFramework.dll
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\bin\Debug\DAL.pdb
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\bin\Debug\DAL.dll.config
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\bin\Debug\AutoMapper.xml
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\bin\Debug\EntityFramework.xml
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\obj\Debug\BL.dll
+C:\Users\Walaa Mohamed\Downloads\E-Commerce website\E-Commerce website\BL\obj\Debug\BL.pdb
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\bin\Debug\BL.dll.config
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\bin\Debug\BL.dll
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\bin\Debug\BL.pdb
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\bin\Debug\AutoMapper.dll
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\bin\Debug\DAL.dll
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\bin\Debug\EntityFramework.dll
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\bin\Debug\DAL.pdb
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\bin\Debug\DAL.dll.config
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\bin\Debug\AutoMapper.xml
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\bin\Debug\EntityFramework.xml
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\obj\Debug\BL.csproj.CopyComplete
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\obj\Debug\BL.dll
+D:\ITI\ASP Net MVC 5\MVC-Project-main\BL\obj\Debug\BL.pdb
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\bin\Debug\BL.dll.config
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\bin\Debug\BL.dll
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\bin\Debug\BL.pdb
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\bin\Debug\AutoMapper.dll
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\bin\Debug\DAL.dll
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\bin\Debug\EntityFramework.dll
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\bin\Debug\DAL.pdb
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\bin\Debug\DAL.dll.config
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\bin\Debug\AutoMapper.xml
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\bin\Debug\EntityFramework.xml
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\obj\Debug\BL.dll
+C:\Users\Walaa Mohamed\Downloads\MVC-Project-main\MVC-Project-main\BL\obj\Debug\BL.pdb
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\bin\Debug\BL.dll.config
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\bin\Debug\BL.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\bin\Debug\BL.pdb
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\bin\Debug\AutoMapper.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\bin\Debug\DAL.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\bin\Debug\EntityFramework.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\bin\Debug\DAL.pdb
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\bin\Debug\DAL.dll.config
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\bin\Debug\AutoMapper.xml
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\bin\Debug\EntityFramework.xml
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\obj\Debug\BL.csproj.CopyComplete
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\obj\Debug\BL.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\Asp\MVC-Project-main\BL\obj\Debug\BL.pdb
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\bin\Debug\BL.dll.config
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\bin\Debug\BL.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\bin\Debug\BL.pdb
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\bin\Debug\AutoMapper.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\bin\Debug\DAL.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\bin\Debug\EntityFramework.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\bin\Debug\DAL.pdb
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\bin\Debug\DAL.dll.config
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\bin\Debug\AutoMapper.xml
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\bin\Debug\EntityFramework.xml
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\obj\Debug\BL.csprojAssemblyReference.cache
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\obj\Debug\BL.csproj.CopyComplete
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\obj\Debug\BL.dll
+D:\ITI 9 Months\Asp.net MVC-20210221T191700Z-001\MVC-Project-main\BL\obj\Debug\BL.pdb
